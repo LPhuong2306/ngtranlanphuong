@@ -2,7 +2,7 @@
 """
 Created on Thu Aug 22 19:50:12 2024
 
-@author: My pc
+@author: lanphuong
 """
 
 str1 = "im a cat"
